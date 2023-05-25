@@ -4,7 +4,7 @@ import { ReactDOM } from "react";
 export default function Navbar() {
     return (
         <nav>
-            <img src="//src/assets/airbnb-logo.png" className="nav--logo"/>
+            <img src={'https://i.postimg.cc/gjpbnF6f/airbnb-logo.png'} className="nav--logo"/>
         </nav>
-    )
+    );
 }
