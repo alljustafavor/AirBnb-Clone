@@ -3,9 +3,7 @@ import './App.css'
 
 
 
-function App() {
-  const [count, setCount] = useState(0)
-  
+export default function App() {
   return (
     <>
     <h1>Hello, Vite</h1>
@@ -13,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+
