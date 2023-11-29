@@ -1,6 +1,6 @@
 # AirBnb Experiences Clone
 
-This project is a clone of AirBnb Experiences built using React. It was created by following the Scrimba tutorial "Learn React: Build an AirBnb Experiences clone".
+This project is a clone of AirBnb Experiences built using React. 
 
 ## Installation
 
